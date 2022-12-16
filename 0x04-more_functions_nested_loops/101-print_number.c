@@ -2,8 +2,9 @@
 #include <stdio.h>
 
 /**
- * main - check the code
- * Return: Always 0.
+ * print_number - prints an integer
+ * @n: input integer parameter
+ * Return: void
  */
 void print_number(int n)
 {
